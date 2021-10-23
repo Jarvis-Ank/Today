@@ -1,0 +1,38 @@
+[
+    {
+        "date": [
+            {
+                "intialYear": "2004",
+                "month": "08",
+                "day": "26"
+            }
+        ],
+        "event": "International Dog Day",
+        "description": "The aim of promoting this day is to raise awareness about adopting these animals who are currently in rescue centers.",
+        "task": [
+            "Adopt a dog from your local shelter",
+            "Donate to animal welfare organizations.",
+            "Take your dog out."
+        ],
+        "frequency": "Annual",
+        "refernce": "https://nationaltoday.com/national-dog-day/"
+    },
+    {
+        "date": [
+            {
+                "intialYear": "1889",
+                "month": "05",
+                "day": "01"
+            }
+        ],
+        "event": "International Workers' Day",
+        "description": "Also known as Labour Day, is a celebration of labourers and the working classes that is promoted by the international labour movement.",
+        "task": [
+            "",
+            "",
+            ""
+        ],
+        "frequency": "Annual",
+        "refernce": "https://en.wikipedia.org/wiki/International_Workers%27_Day"
+    }
+]
