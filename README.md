@@ -51,4 +51,4 @@ Add missing Days, what it's known for and other info.
 
 ## 3. Share
 
-+ If you like what you see "Star" the project and share⭐
++ If you like what you see "Star" the project and share
