@@ -15,7 +15,7 @@
             "Take your dog out."
         ],
         "frequency": "Annual",
-        "refernce": "https://nationaltoday.com/national-dog-day/"
+        "reference": "https://nationaltoday.com/national-dog-day/"
     },
     {
         "date": [
@@ -33,6 +33,6 @@
             ""
         ],
         "frequency": "Annual",
-        "refernce": "https://en.wikipedia.org/wiki/International_Workers%27_Day"
+        "reference": "https://en.wikipedia.org/wiki/International_Workers%27_Day"
     }
 ]
