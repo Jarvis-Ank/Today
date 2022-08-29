@@ -1,8 +1,7 @@
 # Today
 List of Events in 365 Days  
 ## Contributions are Welcome 
-Read [`Contribution Guide`](https://github.com/Jarvis-Ank/Today#contribution)
-of this repo.
+
 ### 1.Today (Events, Description, Task)
 The aim of this repo is to make a single [`today.json`](https://github.com/Jarvis-Ank/Today/blob/main/today.json) file which contains,
 + The Special Event on the day
@@ -44,9 +43,6 @@ contributions are _very much_ welcome! <br />
 ## 1. Add
   
 Add missing Days, what it's known for and other info.
-
-+ <b>Guidelines</b>
-
 + <b>Keep Description Short and clear</b>
 
 ## 3. Share
