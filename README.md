@@ -29,7 +29,7 @@ The aim of this repo is to make a single [`today.json`](https://github.com/Jarvi
             "Take your dog out."
         ],
         "frequency": "Annual",
-        "refernce": "https://nationaltoday.com/national-dog-day/"
+        "reference": "https://nationaltoday.com/national-dog-day/"
     }
 ]
 ```
