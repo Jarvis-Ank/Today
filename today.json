@@ -34,5 +34,23 @@
         ],
         "frequency": "Annual",
         "reference": "https://en.wikipedia.org/wiki/International_Workers%27_Day"
+    },
+    {
+        "date": [
+            {
+                "intialYear": "2013",
+                "month": "08",
+                "day": "10"
+            }
+        ],
+        "event": "World Lion Day",
+        "description": "Celebrated to spread awareness about the conservation of lions.",
+        "task": [
+            "",
+            "",
+            ""
+        ],
+        "frequency": "Annual",
+        "reference": "https://nationaltoday.com/world-lion-day/"
     }
 ]
