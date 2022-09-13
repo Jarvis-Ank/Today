@@ -52,5 +52,23 @@
         ],
         "frequency": "Annual",
         "reference": "https://nationaltoday.com/world-lion-day/"
+    },
+    {
+        "date": [
+            {
+                "intialYear": "2009",
+                "month": "09",
+                "day": "13"
+            }
+        ],
+        "event": "International  Programmers' Day",
+        "description": "Celebrated on the 256th day of the year, it honors programmers around the world.",
+        "task": [
+            "Learn how to say 'hello, world' in a new language.",
+            "Show support for programmers by sharing posts on social media.",
+            "Participate in gatherings commemorating the day."
+        ],
+        "frequency": "Annual",
+        "reference": "https://www.timeanddate.com/holidays/world/international-programmers-day"
     }
 ]
