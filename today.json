@@ -70,5 +70,23 @@
         ],
         "frequency": "Annual",
         "reference": "https://www.timeanddate.com/holidays/world/international-programmers-day"
+    },
+        {
+        "date": [
+            {
+                "intialYear": "1964",
+                "month": "11",
+                "day": "28"
+            }
+        ],
+        "event": "Red Planet Day",
+        "description": "Commemorates the launch of the Mariner 4 spacecraft and is a day to celebrate the planet Mars and learn more about it",
+        "task": [
+            "Conduct a Red Planet Day party.",
+            "Make posters and write cards to friends.",
+            "Learn fun facts about mars."
+        ],
+        "frequency": "Annual",
+        "reference": "https://indianexpress.com/article/explained/explained-sci-tech/red-planet-day-the-missions-that-brought-humans-closer-to-mars-8294521/"
     }
 ]
